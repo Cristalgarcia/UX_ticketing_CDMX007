@@ -56,7 +56,7 @@ Entrevistamos a 8 personas que han comprado en Ticketmaster. Los principales pro
 Durante las entrevistas conocimos los pains y gains del proceso de compra. Identificamos que el conflicto se sitúa desde elegir los asientos hasta ingresar los datos del método de pago, siendo el punto más crítico la elección de un seguro.
 ![CJM](https://github.com/Cristalgarcia/UX_ticketing_CDMX007/blob/master/assets/CJM_TICKETMASTER.PNG)
 
-#### User persona 
+### User persona 
 Con base en los datos encontrados elaboramos nuestra user persona.
 ![user persona](https://github.com/Cristalgarcia/UX_ticketing_CDMX007/blob/master/assets/USER_ticketmaster.jpg)
 
@@ -102,9 +102,7 @@ Los usuarios de Ticketmaster buscan poder elegir su asiento o ver la ubicación 
 ### UX Writing 
 Los touchpoints, seleccionar artículos adicionales, método de pago y de entrega, presentaban exceso de información y mensajes difícil de entender. Para ello, los títulos fueron modificados al indicar el objetivo en español; las opciones cuentan con la sección “ver más detalles” para tener información específica. Además, en todo momento se puede ver el estatus de la compra.
 
-![text]()
-
-
+![text](https://github.com/Cristalgarcia/UX_ticketing_CDMX007/blob/master/assets/textos.PNG)
 
 ### Boleto digital
 Con la intención de evitar el ir a recoger los boletos a los puntos Ticketmaster, ofrecemos la opción de recibir los boletos de manera digital con un código QR para ingresar al evento, los cuales son enviados al correo electrónico para tener un fácil acceso a ellos.
@@ -114,7 +112,7 @@ Con la intención de evitar el ir a recoger los boletos a los puntos Ticketmaste
 ### Método de pago
 Para facilitar el pago de los boletos, incluimos dos nuevas opciones, Paypal para maximizar la seguridad y la confianza de los usuarios, al evitar compartir datos financieros con la plataforma; y a través de Ticketmaster Card, que consiste en efectuar un pago en efectivo en cualquier sucursal OXXO por medio de solicitar un código de barra a Ticketmarter, con ello, se tiene una tarjeta de prepago para pagar en el sitio web.
 
-![método de pago]()
+![método de pago](https://github.com/Cristalgarcia/UX_ticketing_CDMX007/blob/master/assets/TicketMaster-7-b.jpg)
 
 ![oxxo](https://github.com/Cristalgarcia/UX_ticketing_CDMX007/blob/master/assets/ticketmasteroxxo.PNG)
 
@@ -128,7 +126,7 @@ El resideño de la plataforma fue testeada por 5 usuarios, quienes nos ayudaron 
 ![testing](https://github.com/Cristalgarcia/UX_ticketing_CDMX007/blob/master/assets/testing_ticketmaster.PNG)
 
 ### Prototipo
-EL prototipo se diseño con las herramientas Figma y Adobe Ilustrator. Para visualizarlo consultar el [link](https://www.figma.com/proto/6Me1k35CeZ70636zRixwUi/Ticketmaster-(Copy)?node-id=74%3A3&scaling=min-zoom).
+El prototipo se diseñó con las herramientas Figma y Adobe Ilustrator. Para visualizarlo consultar el [link](https://www.figma.com/proto/6Me1k35CeZ70636zRixwUi/Ticketmaster-(Copy)?node-id=74%3A3&scaling=min-zoom).
 
 ## Bibliografía 
 https://www.ticketmaster.com.mx/h/about_us.html?tm_link=tm_i_abouttm
